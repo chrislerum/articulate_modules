@@ -17,6 +17,7 @@
     <![endif]-->
   </head>
   <body>
+    <a href='/'>Home</a>
     <style>
       .brand--head, .brand--head *   { font-family: Lato !important; }
       .brand--body, .brand--body *   { font-family: Merriweather !important; }
@@ -103,14 +104,14 @@
 
         var cache = getLMSData();
 
-        
+
           if(!isPassed()) {
             LMSProxy.SetObjectiveStatus(
               '',
               window.parent.LESSON_STATUS_FAILED
             );
           }
-        
+
 
         function isPassed() {
           return LMSProxy.GetStatus() === window.parent.LESSON_STATUS_PASSED;
@@ -167,7 +168,7 @@
                 LMSProxy.SetReachedEnd();
                 break;
             }
-          
+
           } else {
             switch(reporting) {
               case 'passed-failed':
