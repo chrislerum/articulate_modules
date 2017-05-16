@@ -1,0 +1,1274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns11111101101" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" outputtype="undefined">
+  <layouts>
+    <layout name="npnxnanbsnfns11111101101" font="Tahoma" controllayout="npnxnanbsnfns11111101101" colorscheme="pxabnsnfns11111101101" string_table="pxabnsnfns11111101101" />
+    <layout name="pxabnsnfns11111101101" font="Tahoma" controllayout="pxabnsnfns11111101101" colorscheme="pxabnsnfns11111101101" string_table="pxabnsnfns11111101101" />
+    <layout name="npxnabnsnfns11111101101" font="Tahoma" controllayout="npxnabnsnfns11111101101" colorscheme="pxabnsnfns11111101101" string_table="pxabnsnfns11111101101" />
+    <layout name="npnxnanbnsnfns11111101101" font="Tahoma" controllayout="npnxnanbnsnfns11111101101" colorscheme="pxabnsnfns11111101101" string_table="pxabnsnfns11111101101" />
+    <layout name="pxabnsnfns11111101100" font="Tahoma" controllayout="pxabnsnfns11111101100" colorscheme="pxabnsnfns11111101101" string_table="pxabnsnfns11111101101" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="Module 4 - Standard Setting" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" value="story_content/logo.swf">
+                <properties>
+                  <property name="width" value="277" />
+                  <property name="height" value="61" />
+                </properties>
+              </option>
+              <option name="html5_logo_url" value="mobile/6hdWAGN2zao.jpg" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="resources" value="true" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="false" group="sidebar" />
+              <listitem name="transcript" value="true" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="true" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="true" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="true" />
+          <option name="seekbar" value="true">
+            <options>
+              <option name="readonly" value="false" />
+            </options>
+          </option>
+          <option name="pauseplay" value="true" />
+          <option name="replay" value="true" />
+          <option name="search" value="false" />
+          <option name="closed_captions" value="true">
+            <options>
+              <option name="font" value="Tahoma" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns11111101101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns11111101101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns11111101101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns11111101101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns11111101100">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="pxabnsnfns11111101101">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6DA1CE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000295" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2EEF8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD1E3F2" alpha="100" stop="0" />
+                <color rgb="0x9BC3E3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x125EAC" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x5189D8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0B5295" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0B5295" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD1E3F2" alpha="100" stop="0" />
+                <color rgb="0x9BC3E3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD6E6F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x79A9D2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0B5295" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0B5295" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x336AA3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6DA1CE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2EEF8" alpha="100" stop="0" />
+                <color rgb="0xABCCE7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB5D2EA" alpha="100" stop="0" />
+                <color rgb="0xD8E8F5" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD8E8F5" alpha="100" stop="0" />
+                <color rgb="0xB4D2EA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8DBEE5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0B5295" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB0D2ED" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x74A4DE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6DA1CE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8CBCE5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8DBEE5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000295" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB0D2ED" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0B5295" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xACCFED" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xACCFED" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE0EEF7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE0EDF6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x92C0E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x125EAC" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x5189D8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA0C8E9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD8E8F5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA0C8E9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0B5295" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x92C0E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFCFDFE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0B5295" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0B5295" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x125EAC" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFE3F4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x336AA3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x336AA3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8ABAE1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7AA9D2" alpha="100" stop="0" />
+                <color rgb="0xE7F1FA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6DA1CE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9E8F5" alpha="100" stop="0" />
+                <color rgb="0xB4D3EA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1D1EA" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD8E8F5" alpha="100" stop="0" />
+                <color rgb="0xB4D2EA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x336AA3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC9DFF1" alpha="100" stop="0" />
+                <color rgb="0x75A5D0" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD1E3F2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x5A8BB9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6CA1CE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6CA1CE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB2D1E9" alpha="100" stop="0" />
+                <color rgb="0x9AC3E3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA8CAE7" alpha="100" stop="0" />
+                <color rgb="0x91BEE0" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1EEF8" alpha="100" stop="0" />
+                <color rgb="0xE1EEF8" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xB1D0E9" alpha="100" stop="0" />
+                <color rgb="0xB8D4EB" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x95C2E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFE3F4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6DA1CE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1D1EA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2BC400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6CA1CE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x336AA3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x336AA3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6DA1CE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2EEF8" alpha="100" stop="0" />
+                <color rgb="0xABCCE7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB5D2EA" alpha="100" stop="0" />
+                <color rgb="0xD8E8F5" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD8E8F5" alpha="100" stop="0" />
+                <color rgb="0xB4D2EA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA5C9E7" alpha="10" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0B5295" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x79A9D2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA7CCEB" alpha="100" stop="0" />
+                <color rgb="0x8CBCE5" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD6E9F8" alpha="100" stop="0" />
+                <color rgb="0xD6E9F8" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD1E3F2" alpha="100" stop="0" />
+                <color rgb="0x9BC3E3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD1E3F2" alpha="100" stop="0" />
+                <color rgb="0x9BC3E3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6CA1CE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB0D0E9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA3C8E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDEEBF7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x9EC6E5" alpha="100" stop="0" />
+                <color rgb="0xA8CAE7" alpha="100" stop="128" />
+                <color rgb="0x9EC6E5" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4472C4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="pxabnsnfns11111101101">
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="acc_play">play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">PREV</string>
+      <string id="acc_previous">previous</string>
+      <string id="question_list">Question List</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="search">Search...</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="acc_skipnavigation">Skip navigation. Press enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Tahoma">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+        <file bold="true" italic="false" />
+      </files>
+    </font>
+    <font name="Arial">
+      <files>
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+    <font name="Wingdings">
+      <files>
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.5mOe8SbFHHS" displaytext="Section 4 Student Growth" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5mOe8SbFHHS.5jHwJ4oeazz" displaytext="Welcome!" expand="false" type="slide" />
+            <slidelink slideid="_player.5mOe8SbFHHS.6e2se0BRv9w" displaytext="Introduction" expand="false" type="slide" />
+            <slidelink slideid="_player.5mOe8SbFHHS.64egB3295eI" displaytext="Standard Setting" expand="false" type="slide" />
+            <slidelink slideid="_player.5mOe8SbFHHS.5r8dAzwqT36" displaytext="How much growth?" expand="false" type="slide" />
+            <slidelink slideid="_player.5mOe8SbFHHS.64zmlrVFHqQ" displaytext="Learning Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.5mOe8SbFHHS.6RsQatrNH1Q" displaytext="Bio for Dr. Drake" expand="false" type="slide" />
+            <slidelink slideid="_player.5mOe8SbFHHS.5xMen25WsJO" displaytext="Before We Begin" expand="false" type="slide" />
+            <slidelink slideid="_player.5mOe8SbFHHS.5dRD8zLkvi9" displaytext="What is Standard Setting?" expand="false" type="slide" />
+            <slidelink slideid="_player.5mOe8SbFHHS.6h7NwhL5Kfv" displaytext="Growth Models" expand="false" type="slide" />
+            <slidelink slideid="_player.5mOe8SbFHHS.6CG3qOpwlFf" displaytext="Focusing on Growth Data" expand="false" type="slide" />
+            <slidelink slideid="_player.5mOe8SbFHHS.5V2mFEnQOWT" displaytext="Sample Form to Summarize Assessments" expand="false" type="slide" />
+            <slidelink slideid="_player.5mOe8SbFHHS.6CWkH7k9xYe" displaytext="Take a Moment to Reflect" expand="false" type="slide" />
+            <slidelink slideid="_player.5mOe8SbFHHS.5tYosdF22wI" displaytext="Protocol for the Standard Setting Process" expand="false" type="slide" />
+            <slidelink slideid="_player.5mOe8SbFHHS.696qFjgqcNr" displaytext="More Protocol Steps" expand="false" type="slide" />
+            <slidelink slideid="_player.5mOe8SbFHHS.64kwyhEtCst" displaytext="Take a Moment" expand="false" type="slide" />
+            <slidelink slideid="_player.5mOe8SbFHHS.5vKlxKbMkgi" displaytext="Establish Business Rules" expand="false" type="slide" />
+            <slidelink slideid="_player.5mOe8SbFHHS.6VQosp8bE8O" displaytext="Clearly Describe the Standard Setting Procedure" expand="false" type="slide" />
+            <slidelink slideid="_player.5mOe8SbFHHS.63ORkmZGycb" displaytext="Clearly Describe the Prodedure (con't)" expand="false" type="slide" />
+            <slidelink slideid="_player.5mOe8SbFHHS.6iLUdKc6sfU" displaytext="Performance Level Descriptor Examples" expand="false" type="slide" />
+            <slidelink slideid="_player.5mOe8SbFHHS.5neOynh5MVk" displaytext=" Note" expand="false" type="slide" />
+            <slidelink slideid="_player.5mOe8SbFHHS.6LWAeXLnzZr" displaytext="Performance Level Descriptor Examples" expand="false" type="slide" />
+            <slidelink slideid="_player.5mOe8SbFHHS.5bb3aUFuRsv" displaytext="Take a Moment" expand="false" type="slide" />
+            <slidelink slideid="_player.5mOe8SbFHHS.62EkjbILVjv" displaytext="Criteria to guage cut score" expand="false" type="slide" />
+            <slidelink slideid="_player.5mOe8SbFHHS.5x0G0SuSY3T" displaytext="Review The Data" expand="false" type="slide" />
+            <slidelink slideid="_player.5mOe8SbFHHS.5fAcFELdK5e" displaytext="Take A Moment" expand="false" type="slide" />
+            <slidelink slideid="_player.5mOe8SbFHHS.6bZMikvnNwV" displaytext="Discussion to Reach Consensus" expand="false" type="slide" />
+            <slidelink slideid="_player.5mOe8SbFHHS.6DgrwnlEPem" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5mOe8SbFHHS.5ZGwkuNFhc7" displaytext="Evaluate the Process" expand="false" type="slide" />
+            <slidelink slideid="_player.5mOe8SbFHHS.6ZqIuvXUCRD" displaytext="Report the Recommendations" expand="false" type="slide" />
+            <slidelink slideid="_player.5mOe8SbFHHS.5YJCPci0yue" displaytext="Take a Moment" expand="false" type="slide" />
+            <slidelink slideid="_player.5mOe8SbFHHS.6m4Bs8P441A" displaytext="Closing" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+  </nav_data>
+  <resource_data description="&lt;p align='left'&gt;&lt;font face='Tahoma' style='font-size: 11px;' size='11' color='#0B5295'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
+    <resources>
+      <resource url="story_content/external_files/Practice Standard Setting Tips.pdf" image="story_content/5q9QPlU5JMb.png" title="Practice Standard Setting Tips" />
+      <resource url="story_content/external_files/Practive Standard Setting with Gain Scores.pdf" image="story_content/5mA0IlsMx9B.png" title="Practive Standard Setting with Gain Scores" />
+      <resource url="story_content/external_files/Practice Standard Setting Using Local Assessment Data.pdf" image="story_content/5ZvFUqNbUVm.png" title="Practice Standard Setting Using Local Assessment Data" />
+    </resources>
+  </resource_data>
+  <transcript_data>
+    <slidetranscripts>
+      <slidetranscript slideid="5mOe8SbFHHS.6e2se0BRv9w" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#0b5295'&gt;Welcome to Measuring Student Growth: A Practical Guide to Educator Evaluation.&amp;#160; These modules are the result of a collaborative effort involving many educators from across Wayne County, Michigan. These educators were dedicated to identifying fair, transparent, and appropriate methods for measuring student growth throughout the educator evaluation process.&amp;#160; Teachers, administrators, central office leaders, and ISD staff worked together to understand the research related to student growth models and the best ways with which to implement these models in today’s educational environment. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#0b5295'&gt;The guidance found within these modules represents more than a year and a half of study, analysis, debate, and thoughtful reflection.&amp;#160;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5mOe8SbFHHS.64egB3295eI" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="1">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#0b5295'&gt;This module will cover the content from section 4 of the Student Growth document.  &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#0b5295'&gt;For more information and resources please visit the Educator Evaluation section of RESA’s website.&amp;#160;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5mOe8SbFHHS.5r8dAzwqT36" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="2">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#0b5295'&gt;How much growth is enough? &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#0b5295'&gt;This question is troublesome to educators when considering how to incorporate student growth measurement into educator evaluation. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#0b5295'&gt;This module will provide an overview of the standard setting process as one method of setting the cut score or criteria for student growth. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5mOe8SbFHHS.64zmlrVFHqQ" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="3">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#0b5295'&gt;The information provided in this modules is based on the Wayne RESA document, Measuring Student Growth: A Practical Guide to Educator Evaluation.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#0b5295'&gt;Upon completing this module, &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144]' blockindent='9' indent='-9'&gt;&lt;font face='Arial' size='15pt' style='font-size:15pt' color='#000000'&gt;&lt;span style="display: inline-block; text-align:left; min-width: 9px"&gt;• &lt;/span&gt;&lt;/font&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#0b5295'&gt;The participant will have a general understanding of the standard setting process.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144]' blockindent='9' indent='-9'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144]' blockindent='9' indent='-9'&gt;&lt;font face='Arial' size='15pt' style='font-size:15pt' color='#000000'&gt;&lt;span style="display: inline-block; text-align:left; min-width: 9px"&gt;• &lt;/span&gt;&lt;/font&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#0b5295'&gt;The participant will also be familiar with the content that is covered in Chapter 4.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144]' blockindent='9' indent='-9'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#0b5295'&gt;And,&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144]' blockindent='9' indent='-9'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144]' blockindent='9' indent='-9'&gt;&lt;font face='Arial' size='15pt' style='font-size:15pt' color='#000000'&gt;&lt;span style="display: inline-block; text-align:left; min-width: 9px"&gt;• &lt;/span&gt;&lt;/font&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#0b5295'&gt;The participant will consider how to implement this process.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5mOe8SbFHHS.5xMen25WsJO" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="4">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;Throughout this module, you will have the option to pause to consider the connection between the information in this module with your own experiences and ideas about working with student growth data that comes from your current practice in your school or district.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;Please take a moment to consider:&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;How much growth is enough?&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;&lt;b&gt;You are encouraged to use the Google Doc, linked on this slide, to &lt;/b&gt;&lt;/font&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;record your thoughts for later reference and reelection as your understanding of student growth evolves. &lt;/font&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;&lt;b&gt;You will need to “Make A Copy” of  this document before you are able to add your ideas. &lt;/b&gt;&lt;/font&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;&lt;b&gt;https://docs.google.com/document/d/1uPD9y65feg7BD4JU153PFGGHO7bBylheiUk48TX1fZY/edit?usp=sharing &lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5mOe8SbFHHS.5dRD8zLkvi9" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="5">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;What is Standard Setting in Student Growth Measurement for Educator Evaluation?&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;Standard setting is a process involving professionals, for defining cut scores, that is based on local school district achievement data.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;The standard setting process is used to find the cut scores for student growth&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;The purpose of the cut score is to indicate the threshold for each teacher evaluation category – Highly Effective, Effective, Minimally Effective, and Ineffective.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5mOe8SbFHHS.6h7NwhL5Kfv" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="6">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;The standard setting process can be used with any growth model. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;Think about it this way:&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;The assessment you use for student growth is the tool for collecting data about the student achievement.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;The growth model is the method that is used to compare the students’ performance at two points in time.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;The Standard Setting process is the process that is used to involve stakeholders in determining how much growth is enough, or in other words, the criteria that will be used to make judgements about the growth of students.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5mOe8SbFHHS.6CG3qOpwlFf" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="7">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;There are a variety of data types that may be used with the standard setting process. This table summarizes the range of data types that may be available for measuring student growth, depending on the grade, content area, and district assessment plan. Typical data types include state assessment data, district assessments (that may be purchased or locally developed), classroom assessments, and collections of evidence, such as IEPs, portfolios, or student capstone experiences. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;The standard setting process can be used with any type of assessment. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;Data is only meaningful when considered in a context that addresses factors that can impact the data in positive and negative ways. Here are some things to consider when identifying and working with your data types for student growth measurement.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 30, 48, 96, 144]' blockindent='30' indent='-30'&gt;&lt;font face='Wingdings' size='15pt' style='font-size:15pt' color='#376092'&gt;&lt;span style="display: inline-block; text-align:left; min-width: 30px"&gt;q &lt;/span&gt;&lt;/font&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;Who are the students who are included and excluded?&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 30, 48, 96, 144]' blockindent='30' indent='-30'&gt;&lt;font face='Wingdings' size='15pt' style='font-size:15pt' color='#376092'&gt;&lt;span style="display: inline-block; text-align:left; min-width: 30px"&gt;q &lt;/span&gt;&lt;/font&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;What special factors do we need to consider?&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 30, 48, 96, 144]' blockindent='30' indent='-30'&gt;&lt;font face='Wingdings' size='15pt' style='font-size:15pt' color='#376092'&gt;&lt;span style="display: inline-block; text-align:left; min-width: 30px"&gt;q &lt;/span&gt;&lt;/font&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;What may have occurred that negatively impacted student growth?&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 30, 48, 96, 144]' blockindent='30' indent='-30'&gt;&lt;font face='Wingdings' size='15pt' style='font-size:15pt' color='#376092'&gt;&lt;span style="display: inline-block; text-align:left; min-width: 30px"&gt;q &lt;/span&gt;&lt;/font&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;Did the teachers have a sufficient instructional interval to demonstrate growth?&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 30, 48, 96, 144]' blockindent='30' indent='-30'&gt;&lt;font face='Wingdings' size='15pt' style='font-size:15pt' color='#376092'&gt;&lt;span style="display: inline-block; text-align:left; min-width: 30px"&gt;q &lt;/span&gt;&lt;/font&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;What standard(s) are the being measured?&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 30, 48, 96, 144]' blockindent='30' indent='-30'&gt;&lt;font face='Wingdings' size='15pt' style='font-size:15pt' color='#376092'&gt;&lt;span style="display: inline-block; text-align:left; min-width: 30px"&gt;q &lt;/span&gt;&lt;/font&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;Will the growth measurement data be weighted by other factors? How?&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5mOe8SbFHHS.5V2mFEnQOWT" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="8">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;This is a sample form that you may use to summarize the assessments available to be used in your student growth data review.  &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;&lt;b&gt;Click on the image above to open this form within Google Docs. &lt;/b&gt;&lt;/font&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;&lt;b&gt;https://docs.google.com/document/d/1IuoROp74rsQifRLiT3s9NIhZgTAnwFl8nNt01rITxLU/edit?usp=sharing &lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5mOe8SbFHHS.6CWkH7k9xYe" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="9">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;Please take a moment to reflect on this information relative to your experiences and ideas about student growth data. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 12, 48, 96, 144]' blockindent='12' indent='-12'&gt;&lt;font face='Arial' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;&lt;span style="display: inline-block; text-align:left; min-width: 12px"&gt;• &lt;/span&gt;&lt;/font&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;&lt;b&gt;Have you identified the data sources that you will be using for growth measurement?&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 12, 48, 96, 144]' blockindent='12' indent='-12'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 12, 48, 96, 144]' blockindent='12' indent='-12'&gt;&lt;font face='Arial' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;&lt;span style="display: inline-block; text-align:left; min-width: 12px"&gt;• &lt;/span&gt;&lt;/font&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;&lt;b&gt;What are the factors in your school that will impact student growth measures?&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;Record your thoughts for as a record of your questions, learning and, perhaps, new ideas.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5mOe8SbFHHS.5tYosdF22wI" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="10">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;&lt;b&gt;Use a standard protocol for the standard setting process. &lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;These clearly defined steps will help you to manage the data, arrangements, and discussions to arrive at meaningful consensus on your growth criteria. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;&lt;b&gt;Step 1: &lt;/b&gt;&lt;/font&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;Assemble a team of professionals who will be able to represent the content knowledge, understand the data, and work well on the team. Make sure you have someone who is good at making data displays and communicating the data. You will also need to identify a good team facilitator.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;&lt;b&gt;Step 2: &lt;/b&gt;&lt;/font&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;Document your process. Write out your norms, meeting dates, meeting agendas and directions for how this is going to work so that your process is documented and defensible if challenged later.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;&lt;b&gt;Step 3. &lt;/b&gt;&lt;/font&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;Establish the data sources for student growth – Identify the data you will use for growth measurement and summarize it so that it can be reviewed on the team. At this step you will need to establish business rules for managing missing data, attendance issues, and other considerations.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;&lt;b&gt;Step 4. &lt;/b&gt;&lt;/font&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;Clarify your growth assumptions. Identify your growth model and clarify assumptions about growth for students who are not proficient on state standards.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;&lt;b&gt;Step 5. &lt;/b&gt;&lt;/font&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;Write performance level descriptors. Write down the criteria for your expectations of what student growth looks like and means for the Effectiveness categories with out using numbers.  &lt;/font&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;&lt;b&gt;These descriptions will serve as the criteria for setting your cut scores when the team reviews the data.&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5mOe8SbFHHS.696qFjgqcNr" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="11">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;&lt;b&gt;Step 6. &lt;/b&gt;&lt;/font&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;Train the committee members who will be doing the standard setting process. Make sure they understand the data and that you are clear about their job. This is important to keep the meetings efficient and on-task.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;&lt;b&gt;Step 7. &lt;/b&gt;&lt;/font&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;Implement the standard setting procedure. Have the meeting and work through the data with the committee to arrive at consensus for your criteria.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;&lt;b&gt;Step 8. &lt;/b&gt;&lt;/font&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;Evaluate the process. When the work is done, as the committee members to provide feedback. Did the process work? &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;&lt;b&gt;Step 9. &lt;/b&gt;&lt;/font&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;Share the recommendations. It will be important to summarize the work of the committee and report out the recommendations to the larger school community so that the criteria can be understood and implemented.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5mOe8SbFHHS.64kwyhEtCst" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="12">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;&lt;b&gt;Please take a moment &lt;/b&gt;&lt;/font&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;to reflect on this information relative to your experiences and ideas about student growth data. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;&lt;b&gt;&lt;i&gt;What might be the benefits to bringing your team together to engage in this process?&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;&lt;b&gt;&lt;i&gt;What are your challenges to involving stakeholders in setting district criteria?&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;&lt;b&gt;Record your thoughts &lt;/b&gt;&lt;/font&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;for as a record of your questions, learning and, perhaps, new ideas.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5mOe8SbFHHS.5vKlxKbMkgi" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="13">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;We will move forward focusing on some important details when planning to implement a standard setting process.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;As mentioned earlier, it will be important to &lt;/font&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;&lt;b&gt;establish business rules for standard setting.&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;These rules will support you to be using data that are comparable and consistent. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;Business rules should address such issues as &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;&lt;b&gt;Student Attendance Rates&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;&lt;b&gt;Classroom Enrollments and changes to enrollments&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;&lt;b&gt;Demographics&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;&lt;b&gt;Missing Data&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;&lt;b&gt;And Extenuating circumstances&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;Take the time to &lt;/font&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;&lt;b&gt;work out these details before bringing in the committee &lt;/b&gt;&lt;/font&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;to set the growth criteria. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5mOe8SbFHHS.6VQosp8bE8O" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="14">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;As part of setting up the standard setting, make sure you are very clear with participants about their tasks. Do not let the conversations stray to personal agendas. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;The participant tasks are clearly listed. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 24, 48, 96, 144]' blockindent='24' indent='-24'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;&lt;span style="display: inline-block; text-align:left; min-width: 24px"&gt;1. &lt;/span&gt;&lt;/font&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;&lt;b&gt;Review and learn how to read the growth data&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 24, 48, 96, 144]' blockindent='24' indent='-24'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 24, 48, 96, 144]' blockindent='24' indent='-24'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;&lt;span style="display: inline-block; text-align:left; min-width: 24px"&gt;2. &lt;/span&gt;&lt;/font&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;&lt;b&gt;Review and clarify your understanding of the performance level descriptor categories. &lt;/b&gt;&lt;/font&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;The performance level descriptors are the criteria for defining cut scores. If you fail &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;     use the criteria, your judgements will have personal bias that is not helpful to the consensus process.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 24, 48, 96, 144]' blockindent='24' indent='-24'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;&lt;span style="display: inline-block; text-align:left; min-width: 24px"&gt;3. &lt;/span&gt;&lt;/font&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;&lt;b&gt;Each participant must first independently rate the data points that best match the performance level descriptors. &lt;/b&gt;&lt;/font&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;There should be no cross talk when reviewing the data.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt; &lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 24, 48, 96, 144]' blockindent='24' indent='-24'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;&lt;span style="display: inline-block; text-align:left; min-width: 24px"&gt;4. &lt;/span&gt;&lt;/font&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;&lt;b&gt;Once the data are summarized, review how your decisions compare to the rest of the team. Review this feedback and impact data.&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 24, 48, 96, 144]' blockindent='24' indent='-24'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5mOe8SbFHHS.63ORkmZGycb" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="15">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#2f5597'&gt;5.  &lt;/font&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;&lt;b&gt;The process of reviewing data may be repeated until the committee reaches consensus.&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#2f5597'&gt;6.  &lt;/font&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#2f5597'&gt;&lt;b&gt;It is an expectation that each participant contributes to the final recommendations.&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#2f5597'&gt;7.  &lt;/font&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#2f5597'&gt;&lt;b&gt;When asked to provide feedback on the process, be constructive and honest in your rating of the experience and outcomes.&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5mOe8SbFHHS.6iLUdKc6sfU" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="16">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;Earlier we mentioned the Performance Level Descriptors.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;Here is an example of what this criteria looks like. You may word your criteria to fit your data type and the expectations of growth that are meaningful in your context.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;In this example, effective growth is defined as &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;Master of SEVERAL grade level standards at grade expectancy as measured by the local benchmark assessment.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;The other effectiveness categories tend to differentiated by the range, pattern, degree, duration, or quality of student performance.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5mOe8SbFHHS.5neOynh5MVk" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="17">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#2f5597'&gt;Note - &lt;/font&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#2f5597'&gt;&lt;b&gt;do not use numbers such as percent, percentiles, standard scores to describe your criteria. &lt;/b&gt;&lt;/font&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#2f5597'&gt;If you interject number in the criteria then you do not need to use the standard setting process as you already defined cut scores in your criteria.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#2f5597'&gt;&lt;b&gt;The purpose of the standard setting process is to find the meaningful cut scores.&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5mOe8SbFHHS.6LWAeXLnzZr" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="18">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;Here is another example of a performance level descriptor. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;In this example, the district is using simple gain scores to determine student growth. A Gain Score is the difference between a pre test and a post test.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;These criteria define effective growth as gains in scores that are consistent with patterns representing the majority of gain scores.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;Again, note that the &lt;/font&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;&lt;b&gt;criteria is defining growth &lt;/b&gt;&lt;/font&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;in terms of &lt;/font&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;&lt;b&gt;range, pattern, degree, duration, or quality of student performance.&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5mOe8SbFHHS.5bb3aUFuRsv" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="19">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;Practice developing a performance level descriptor for your assessments.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;Here are some steps to help you develop your criteria.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 36, 48, 96, 144]' blockindent='36' indent='-36'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;&lt;span style="display: inline-block; text-align:left; min-width: 36px"&gt;1. &lt;/span&gt;&lt;/font&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;Establish your categories, e.g., Highly Effective, Effective, Minimally Effective &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 36, 48, 96, 144]' blockindent='36' indent='-36'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;&lt;span style="display: inline-block; text-align:left; min-width: 36px"&gt;2. &lt;/span&gt;&lt;/font&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;Consider a data source in your district.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 36, 48, 96, 144]' blockindent='36' indent='-36'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;&lt;span style="display: inline-block; text-align:left; min-width: 36px"&gt;3. &lt;/span&gt;&lt;/font&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;Write a description of the growth performance that best characterizes the category. It helps to start with the line between EFFECTIVE and MINIMALLY EFFECTIVE performance.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 36, 48, 96, 144]' blockindent='36' indent='-36'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;&lt;span style="display: inline-block; text-align:left; min-width: 36px"&gt;4. &lt;/span&gt;&lt;/font&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#376092'&gt;Do NOT reference data points – Use descriptive terms such as pattern, mastery, range, duration, degree or quality.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5mOe8SbFHHS.62EkjbILVjv" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="20">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#0b5295'&gt;Once you have your performance level descriptor data, you will use the criteria to gauge the cut score.  &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;Think about standard setting as starting at the middle and moving a gauge up or down to match the criteria of the performance level descriptors.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5mOe8SbFHHS.5x0G0SuSY3T" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="21">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;You will need to guide the participants to work with the data by, &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;First, Locating the midpoint in the data&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;Then, Asking themselves: Does this data point meet the performance level description that distinguishes effective from minimally effective? &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;The participant will then adjust the data point up or down until the best data point representation is achieved in their judgement.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;Each participant must do this independently before reviewing their thinking together to reach consensus.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5mOe8SbFHHS.5fAcFELdK5e" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="22">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;Here is a sample form for summarizing the ratings of the participants on the standard setting committee.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5mOe8SbFHHS.6bZMikvnNwV" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="23">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;Here are some tips for the facilitator of the standard setting process.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;It can be difficult to manage groups and difficult discussions. Keep these questions in mind and hold to them to guide the group to reaching consensus.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;The key discussion questions are listed:&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;Describe what you see when you review these data?&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;What stands out to you?&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;Are the scores representative of the Performance Level Descriptors?&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;Does the impact match your judgement of what is realistic?&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;Is this fair to teachers and students?&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;Consider this image: https://www.shutterstock.com/image-photo/image-three-business-partners-discussing-documents-134719040?src=6eLqQp5T-QbabJngn6smNQ-1-15&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;&lt;b&gt;Consider this image: https://www.shutterstock.com/image-photo/image-three-business-partners-discussing-documents-134719040?src=6eLqQp5T-QbabJngn6smNQ-1-15&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5mOe8SbFHHS.6DgrwnlEPem" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="24">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#000000'&gt;Once the committee arrives at consensus the data will need to be summarized. &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#000000'&gt;In this example, the cut scores for each category have been identified by the standard setting process.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#000000'&gt;The data show the impact based on the percent of students whose scores would be in each category.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#000000'&gt;Another way to look at impact would be to examine the number or percent of teachers who would be rated as Minimally Effective, Effective, or Highly Effective using these cut scores.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='16.5pt' style='font-size:16.5pt' color='#000000'&gt;This information can then be used to create rubrics for your growth measurement.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5mOe8SbFHHS.5ZGwkuNFhc7" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="25">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;It is important to evaluate the process with your committee participants.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;The key questions to ask are:&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;Was this reasonable? – Did the process set reasonable expectations on you are a participant?&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;Can this be replicated? – If another panel were assembled with the same criteria and data, would they reach similar recommendations?&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;Is this fair? – Was the process fair to the participants in the activities and time allocated? Will the recommendations that come from this process be fair to educators when implemented?&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5mOe8SbFHHS.6ZqIuvXUCRD" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="26">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 11, 48, 96, 144]' blockindent='11' indent='-11'&gt;&lt;font face='Arial' size='15pt' style='font-size:15pt' color='#376092'&gt;&lt;span style="display: inline-block; text-align:left; min-width: 11px"&gt;• &lt;/span&gt;&lt;/font&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;It will be important to &lt;/font&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;&lt;b&gt;summarize the recommendations &lt;/b&gt;&lt;/font&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;of the standard setting process.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 11, 48, 96, 144]' blockindent='11' indent='-11'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 11, 48, 96, 144]' blockindent='11' indent='-11'&gt;&lt;font face='Arial' size='15pt' style='font-size:15pt' color='#376092'&gt;&lt;span style="display: inline-block; text-align:left; min-width: 11px"&gt;• &lt;/span&gt;&lt;/font&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;Make sure to report on the criteria of the performance level descriptors, the data used, and the recommendations of the team.  Make sure to include information that describes the process.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 11, 48, 96, 144]' blockindent='11' indent='-11'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 11, 48, 96, 144]' blockindent='11' indent='-11'&gt;&lt;font face='Arial' size='15pt' style='font-size:15pt' color='#376092'&gt;&lt;span style="display: inline-block; text-align:left; min-width: 11px"&gt;• &lt;/span&gt;&lt;/font&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;You will need to explain the data that was used for the standard setting process and the information that was used to investigate the impact of the cut scores on educators who will be evaluated based on this standard.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 11, 48, 96, 144]' blockindent='11' indent='-11'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 11, 48, 96, 144]' blockindent='11' indent='-11'&gt;&lt;font face='Arial' size='15pt' style='font-size:15pt' color='#376092'&gt;&lt;span style="display: inline-block; text-align:left; min-width: 11px"&gt;• &lt;/span&gt;&lt;/font&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;The report must provide a format, such as a rubric that defines the cut scores and how they are to be applied in the educator evaluation process.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 11, 48, 96, 144]' blockindent='11' indent='-11'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 11, 48, 96, 144]' blockindent='11' indent='-11'&gt;&lt;font face='Arial' size='15pt' style='font-size:15pt' color='#376092'&gt;&lt;span style="display: inline-block; text-align:left; min-width: 11px"&gt;• &lt;/span&gt;&lt;/font&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;Be aware of revisions that may arise from the state and incorporate any anticipated changes to your criteria.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 11, 48, 96, 144]' blockindent='11' indent='-11'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 11, 48, 96, 144]' blockindent='11' indent='-11'&gt;&lt;font face='Arial' size='15pt' style='font-size:15pt' color='#376092'&gt;&lt;span style="display: inline-block; text-align:left; min-width: 11px"&gt;• &lt;/span&gt;&lt;/font&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;Include recommendations for future review committees and timelines for evaluating how well the cut scores are working.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5mOe8SbFHHS.5YJCPci0yue" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="27">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;This concludes the module that provides an overview of the standard setting process.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;Take a moment to consider how this process would work in your setting. Evaluate how this process might work for you and discuss with your colleagues.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 11, 48, 96, 144]' blockindent='11' indent='-11'&gt;&lt;font face='Arial' size='15pt' style='font-size:15pt' color='#376092'&gt;&lt;span style="display: inline-block; text-align:left; min-width: 11px"&gt;• &lt;/span&gt;&lt;/font&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;&lt;b&gt;Is this process reasonable?&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 11, 48, 96, 144]' blockindent='11' indent='-11'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 11, 48, 96, 144]' blockindent='11' indent='-11'&gt;&lt;font face='Arial' size='15pt' style='font-size:15pt' color='#376092'&gt;&lt;span style="display: inline-block; text-align:left; min-width: 11px"&gt;• &lt;/span&gt;&lt;/font&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;&lt;b&gt;Is this a process you might replicate?&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 11, 48, 96, 144]' blockindent='11' indent='-11'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 11, 48, 96, 144]' blockindent='11' indent='-11'&gt;&lt;font face='Arial' size='15pt' style='font-size:15pt' color='#376092'&gt;&lt;span style="display: inline-block; text-align:left; min-width: 11px"&gt;• &lt;/span&gt;&lt;/font&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;&lt;b&gt;Is this process fair to educators and students?&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5mOe8SbFHHS.6m4Bs8P441A" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="28">&lt;html&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;For more information regarding Understanding Student Growth and Educator Evaluation, we encourage you to visit the Educator Evaluation section of Wayne RESA’s website at http://www.resa.net/curriculum/educator-evaluation/&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]' blockindent='0' indent='0'&gt;&lt;font face='Tahoma' size='15pt' style='font-size:15pt' color='#376092'&gt;Here you will find a variety of resources including this module, a downloadable version of the guidance document entitled “Understanding Student Growth: A Practical Guide To Educator Evaluation” as well as the online modules designed to assist learners as they delve deeper into the content of this manual.  &lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+    </slidetranscripts>
+  </transcript_data>
+  <glossary_data />
+</bwFrame>

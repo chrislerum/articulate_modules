@@ -3,7 +3,7 @@ lock "3.7.2"
 
 set :application, "articulate_modules"
 set :repo_url, 'git@github.com:chrislerum/articulate_modules.git'
-set :chruby_ruby, '2.4.1'
+set :chruby_ruby, '2.4.0'
 set :linked_files, fetch(:linked_files, []).push('config/database.yml', 'config/secrets.yml')
 append :linked_dirs, 'public/system'
 
