@@ -6,6 +6,8 @@ git_source(:github) do |repo_name|
 end
 
 gem 'devise'
+gem 'bootstrap-sass', '~> 3.3.6'
+gem 'jquery-rails'
 
 gem 'mysql2'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
